@@ -12,6 +12,6 @@ Test Engine repository of Gluecose system comprises of:
 
 4. Logic that executes an Automated Compliance Runner(ACR), takes the output of the run and re-shapes the output data in a format understood by the DB Schema and pushes the data into the DB.
 
-5. Collects Logs of execution and saves it in a pre-defined location.
+5. Collects Logs of execution and saves it in a pre-defined location. Possesses a feature to send an automated email to the library provider, in case there is a failure during test execution.
 
 
