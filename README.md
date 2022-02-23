@@ -1,8 +1,8 @@
 # test-engine
-Test Engine is the logic that drives the inter operability testing.
+Test Engine is the logic that drives the interoperability testing.
 
 # Contents
-Test Engine repository of Gluecose system comprises of:
+Test Engine repository of Gluecose system comprises:
 
 1. Database schema, where each DB row will have information about specific COSE implemenation, feature supported, level of support etc.
 
